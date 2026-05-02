@@ -11,9 +11,12 @@ Consumo de API HTTP
 Conversão de JSON para objetos Java
 Organização de dados de séries e episódios
 
-
 🚀 Tecnologias utilizadas
+
 ☕ Java 17+
+
 🌐 API HTTP (HttpClient)
+
 🔄 Jackson (para conversão JSON)
+
 📦 Programação orientada a objetos (POO)
